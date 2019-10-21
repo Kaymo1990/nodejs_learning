@@ -7,4 +7,4 @@ function hello(name) {
 
 console.log(validate.isURL('khansham@hotmail.com'));
 
-console.log(chalk.blue("hello world"));
+console.log(chalk.blue.bold.underline("hello world"));
