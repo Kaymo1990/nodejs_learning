@@ -1,3 +1,7 @@
 const value = "something";
 
-module.exports = value;
+function add(a, b){
+    return a+b;
+};
+
+module.exports = add;
